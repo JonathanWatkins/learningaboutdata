@@ -23,7 +23,7 @@ Fun matrix thing
 \\[
 
 \begin{pmatrix}
-1 & 2 & 3\\
+1 & 2 & 3 \\\\
 a & b & c
 \end{pmatrix}
 
