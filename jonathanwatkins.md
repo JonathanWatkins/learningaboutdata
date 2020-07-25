@@ -8,7 +8,7 @@ Some information Jon!
 
 $$ x^2 $$
 
-Some more $ \sin{x^2} $
+Some more $$ \sin{x^2} $$
 
 ### More Information
 
