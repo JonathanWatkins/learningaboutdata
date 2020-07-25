@@ -10,6 +10,6 @@ permalink: /group/
 
 [Personal page]({% link richardmason.md %})
 
-### Richard Mason
+### Jonathan Watkins
 
 [Personal page]({% link jonathanwatkins.md %})
