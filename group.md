@@ -10,8 +10,8 @@ A place to include any other types of information that you'd like to include abo
 
 ### Richard Mason
 
-[Personal page]({% link richardmason.html %})
+[Personal page]({% link richardmason.md %})
 
 ### Richard Mason
 
-[Personal page]({% link jonathanwatkins.html %})
+[Personal page]({% link jonathanwatkins.md %})
