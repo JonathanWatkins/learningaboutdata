@@ -4,9 +4,7 @@ title: Group
 permalink: /group/
 ---
 
-### Group members
-
-A place to include any other types of information that you'd like to include about yourself.
+## Group members
 
 ### Richard Mason
 
