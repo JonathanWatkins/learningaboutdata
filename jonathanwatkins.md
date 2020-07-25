@@ -21,7 +21,7 @@ A place to \\[ \int_0^1 x \mathrm{d} x \\] and include any other types of \\( x 
 Fun matrix thing
 
 \\begin{pmatrix}
-1 & 2 & 3 \\\\
+1 & 2 & 3 \\\\\\
 a & b & c
 \\end{pmatrix}
 
