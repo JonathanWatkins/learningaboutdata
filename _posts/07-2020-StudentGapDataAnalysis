@@ -1,0 +1,7 @@
+---
+layout: post
+title: Analysing Student Data: Attainment Gaps
+---
+A current problem within education pertains to gaps between students of differing backgrounds. For example, it is widely acknowledged that there is a BAME gap - a gap between the attainment of BAME and non-BAME students. This page provides a brief summary of some techniques that can be applied to model student mark data and establish statistical significance.
+
+In this setting, we consider marks to consist of numbers between 0 and 100. If we look at the mark distribution between two groups of students, it would be good to characterise any differences. Typically, a t-test would be applied, but the non-Gaussian nature of the mark distribution means this is innappropriate, leading to errors. In this situation, one then resorts to non-parametric tests, which while general are not specific. A different approach is taken here. We use a beta-Binomial distribution.
