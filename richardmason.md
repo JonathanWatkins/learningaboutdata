@@ -7,6 +7,11 @@ I largely work in machine learning. I try to accomplish two things: fundamental 
 
 I teach the Data Science course in the Centre for Doctoral Training in Topology, and co-run projects in the CDT and fourth year projects in Theoretical Physics.
 
+I work on the following research topics currently
+* Fundamental tensor decompositions, and applications to text analysis and Raman spectroscopy.
+* Student data analytics.
+* Analysis of Raman spectroscopy data.
+
 ### More Information
 Here is a selection of topics of current interest to me, and therefore all of the work here is ongoing. This is an often changing list depending on the people I am talking to.
 
