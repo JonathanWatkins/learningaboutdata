@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### Group Summary
-This group works on a variety of machine learning, statistics, data science and coding problems.
+This group works on a variety of data science, statistics, and coding problems.
 
 ### Example Work
 Here is some examples of the type of work carried out by this group.
