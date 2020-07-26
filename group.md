@@ -6,10 +6,6 @@ permalink: /group/
 
 ## Group members
 
-### Richard Mason
+[Jonathan Watkins]({% link jonathanwatkins.md %})
 
-[Personal page]({% link richardmason.md %})
-
-### Jonathan Watkins
-
-[Personal page]({% link jonathanwatkins.md %})
+[Richard Mason]({% link richardmason.md %})
