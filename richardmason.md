@@ -3,7 +3,7 @@ layout: page
 title: Richard Mason
 permalink: /richardmason/
 ---
-I largely work in machine learning. I try to accomplish two things: fundamental research into algorithms and techniques, and analysis of data from other people. The latter of these tends to drive my interest in furthering my fundamental understanding. This means that depending on who I am working with, my current research can be quite diverse. However, a mainstay topic from a fundamental perspective is matrix and tensor decomposition which are very different, but related.
+I largely work in data science. I try to accomplish two things: fundamental research into algorithms and techniques, and analysis of data from other people. The latter of these tends to drive my interest in furthering my fundamental understanding. This means that depending on who I am working with, my current research can be quite diverse. However, a mainstay topic from a fundamental perspective is matrix and tensor decomposition which are very different, but related.
 
 I teach the Data Science course in the Centre for Doctoral Training in Topology, and co-run projects in the CDT and fourth year projects in Theoretical Physics.
 
