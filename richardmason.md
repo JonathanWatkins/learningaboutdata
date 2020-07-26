@@ -29,5 +29,3 @@ Raman spectroscopy is an excellent playground for data analysis techniques. It i
 ### Contact me
 
 [r.j.mason@bham.ac.uk](mailto:r.j.mason@bham.ac.uk)
-
-<a href="https://github.com/JonathanWatkins/learningaboutdata/blob/master/Imputation.pdf" target="_blank">Imputation Notes</a>
